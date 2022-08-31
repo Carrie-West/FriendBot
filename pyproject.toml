@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8.0,<3.9"
+numpy = "^1.22.2"
+replit = "^3.2.4"
+Flask = "^2.2.0"
+keepalive = "^0.5"
+dice = "^3.1.2"
+discord = "^2.0.0"
+Wikipedia-API = "^0.5.4"
+wikipedia = "^1.4.0"
+pandas = "^1.4.3"
+
+[tool.poetry.dev-dependencies]
+debugpy = "^1.6.2"
+python-lsp-server = {extras = ["yapf", "rope", "pyflakes"], version = "^1.5.0"}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
