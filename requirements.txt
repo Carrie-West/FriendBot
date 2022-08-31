@@ -1,9 +1,9 @@
-discord @ https://files.pythonhosted.org/packages/11/91/75a2371aeff949e65b3ce6abfb0180a4adfa048097bca6c32205638e0f3b/discord-2.0.0-py3-none-any.whl#sha256=ffc714978d338d2b506e4924d66d7d02a649378a46743e2bdf42ef1bd43d1a67
-discord.py @ https://files.pythonhosted.org/packages/0e/d9/7b057cab41c16144925ba4f96dab576a8ebb7b80a98d40e06bd94298eb3b/discord.py-2.0.0-py3-none-any.whl#sha256=18b06870bdc85d29e0d55f4a4b2abe9d7cdae2b197e23d49f82886ba27ba1aec
-Flask @ https://files.pythonhosted.org/packages/3c/96/6c896f80f466b7f5e2cfd6d632fe5b0464dcb412757c595a663e59589a93/Flask-2.2.1-py3-none-any.whl#sha256=3c604c48c3d5b4c63e72134044c0b4fe90ff01ef65280b9fe2d38c8860d99fe5
-numpy @ https://files.pythonhosted.org/packages/86/c9/9f9d6812fa8a031a568c2c1c49f207a0a4030ead438644c887410fc49c8a/numpy-1.23.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1408c3527a74a0209c781ac82bde2182b0f0bf54dea6e6a363fe0cc4488a7ce7
-pandas @ https://files.pythonhosted.org/packages/d1/55/18b00a5426ad8a89944ab93b6b29773a556dc06af8b53a29031f861009e3/pandas-1.4.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6dfbf16b1ea4f4d0ee11084d9c026340514d1d30270eaa82a9f1297b6c8ecbf0
+discord 
+discord.py
+Flask
+numpy 
+pandas
 requests==2.28.1
 requests-toolbelt==0.9.1
-Werkzeug @ https://files.pythonhosted.org/packages/c0/93/d6d60870e47162ea6a1bbdd787649eea776b2a70618dd66ed87cb2238543/Werkzeug-2.2.1-py3-none-any.whl#sha256=7e1db6a5ba6b9a8be061e47e900456355b8714c0f238b0313f53afce1a55a79a
+Werkzeug
 Wikipedia-API==0.5.4
